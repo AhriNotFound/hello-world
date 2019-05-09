@@ -1,4 +1,4 @@
 # hello-world
 My first repository on Github.
 
-I love eat:candy:, sleep :sleep: , raves:rainbow:, and clubbing :unicorn:
+I love eat:candy:, sleep :sleepy: , raves:rainbow:, and clubbing :unicorn:
